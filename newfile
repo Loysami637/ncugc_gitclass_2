@@ -3,3 +3,6 @@ the time complex is O(n)
 
 *find*
 time complex is O(logn)
+
+*union*
+time complex is O(n)
