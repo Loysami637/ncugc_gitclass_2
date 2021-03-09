@@ -4,9 +4,8 @@ the time complex is O(n)
 *find*
 time complex is O(logn)
 
-<<<<<<< HEAD
 *intersection*
-=======
 *union*
 time complex is O(n)
->>>>>>> dev
+
+abcdefghijklmnopqrstuvwxyz
